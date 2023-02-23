@@ -1,1 +1,1 @@
-Practicing binary tree function.
+Practicing binary tree function for the purpose of being able to reverse it. 
